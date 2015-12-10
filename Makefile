@@ -9,3 +9,6 @@ build:
 
 clean:
 	docker rmi ${DOCKER_REPO}
+
+upload: build
+	docker push ${DOCKER_REPO}
