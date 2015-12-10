@@ -11,6 +11,3 @@ RUN apt-get update && \
     add-apt-repository -y ppa:radio-astro/main && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
-
-# make sure child images have latest deb package cache
-ONBUILD RUN apt-get update
