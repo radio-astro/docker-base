@@ -1,4 +1,4 @@
-DOCKER_REPO=radioastro/base
+DOCKER_REPO=radioastro/base:0.1
 
 .PHONY: build clean
 
