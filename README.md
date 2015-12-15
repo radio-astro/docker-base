@@ -20,5 +20,5 @@ https://registry.hub.docker.com/u/radioastro/base/
 Changes
 =======
 
-0.2 - install latest pip
-0.1 - first release
+ * **0.2** - install latest pip
+ * **0.1** - first release
