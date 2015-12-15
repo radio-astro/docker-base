@@ -1,5 +1,5 @@
 About
-======
+=====
 
 A basic Ubuntu 14.04 image with the radio-astro PPA repository enabled.
 
@@ -17,4 +17,8 @@ put `FROM: radioastro/base` as the first line in your `Dockerfile`.
 
 https://registry.hub.docker.com/u/radioastro/base/
 
+Changes
+=======
 
+0.2 - install latest pip
+0.1 - first release
