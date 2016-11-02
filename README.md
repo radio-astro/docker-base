@@ -1,6 +1,9 @@
 About
 =====
 
+**WARNING**: This project has been replaced by KERN and is unmaintained: http://kernsuite.info/
+
+
 A basic Ubuntu 14.04 image with the radio-astro PPA repository enabled.
 
 * Has worldwide location based mirrors configured
